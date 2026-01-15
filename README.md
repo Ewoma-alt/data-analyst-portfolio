@@ -11,8 +11,8 @@ I enjoy turning raw data into insights that support business decisions.
 
 ## Projects
 1. Sales Performance Analysis (Excel & Power BI)
-2. Customer Retention Analysis (SQL)
-3. Healthcare Accessibility Analysis (Power BI)
+2. Healthcare Accessibility Analysis (Power BI)
+3. Pharmacy Sales & Profitability Analytics (Excel & Power  Bi)
 
 ## Contact
 - LinkedIn: (www.linkedin.com/in/ewoma-agbanoma-3b262838b)
