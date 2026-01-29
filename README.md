@@ -10,7 +10,7 @@ I enjoy turning raw data into insights that support business decisions.
 - Power BI (DAX, Dashboards, Data Modeling)
 
 ## Projects
-1. Sales Performance Analysis (Excel & Power BI)
+1. Sales Performance Analysis (Excel & Power BI)(https://github.com/Ewoma-alt/sales-performance-analysis)
 2. Healthcare Accessibility Analysis (Power BI)
 3. Pharmacy Sales & Profitability Analytics (Excel & Power  Bi)
 
