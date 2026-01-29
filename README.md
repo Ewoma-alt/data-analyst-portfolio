@@ -11,7 +11,7 @@ I enjoy turning raw data into insights that support business decisions.
 
 ## Projects
 1. Sales Performance Analysis (Excel & Power BI)(https://github.com/Ewoma-alt/sales-performance-analysis)
-2. Healthcare Accessibility Analysis (Power BI)
+2. Healthcare Accessibility Analysis (Power BI)(https://github.com/Ewoma-alt/healthcare-accessibility)
 3. Pharmacy Sales & Profitability Analytics (Excel & Power  Bi)
 
 ## Contact
